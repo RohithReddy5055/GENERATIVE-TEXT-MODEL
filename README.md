@@ -16,3 +16,4 @@ This Python script demonstrates a simple implementation of text generation using
 
 # OUTPUT
 
+<img width="1290" height="601" alt="Image" src="https://github.com/user-attachments/assets/8ed6a791-e062-45e0-92fb-c374ebadda42" />
